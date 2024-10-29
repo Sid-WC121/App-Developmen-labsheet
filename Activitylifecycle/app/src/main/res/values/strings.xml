@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activity lifecycle</string>
+    <string name="main">Home</string>
+    <string name="bt1">Go to next page</string>
+    <string name="pg1">Page 1</string>
+    <string name="bt2">Go Home</string>
+
+</resources>
